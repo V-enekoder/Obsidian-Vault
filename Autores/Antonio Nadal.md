@@ -1,0 +1,1 @@
+Antonio Nadal Homar es un entrenador y preparador físico de tenis español. Ha entrenado, desde el inicio de su carrera hasta 2017, a su sobrino el jugador de tenis profesional Rafael Nadal, cuádruple ganador de la Copa Davis, medalla de oro en Pekín 2008 y campeón de 22 Grand Slam.

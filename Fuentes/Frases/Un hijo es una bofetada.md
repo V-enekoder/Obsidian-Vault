@@ -1,0 +1,2 @@
+"Y si la paternidad siempre es irresponsable, también enseña. Tener hijos ayuda a sentar criterio, ayuda a ver la realidad con mucha más claridad y de un modo mucho más puro. Un hijo es una puerta abierta a la verdad. Un hijo es una bofetada de realidad.  Cuando uno tiene un hijo, la ideología se desvanece y aparece lo que es real."
+En [[Paternidad Irresponsable]]

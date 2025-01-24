@@ -1,0 +1,2 @@
+"Los principales problemas del anarcocapitalismo son considerar la seguridad un bien económico como cualquier otro y obviar que existen ciertos bienes y servicios, como los espacios comunes y la defensa, que los grupos humanos suelen poseer, proporcionar y disfrutar de forma conjunta, lo cual puede implicar la necesidad de un gobierno centralizado. "
+en [[Anarcocapitalismo, minarquismo y evolucionismo]]

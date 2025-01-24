@@ -1,0 +1,1 @@
+Multiparadigma, es utilizado para aplicaciones o videojuegos. Su sintaxis se parece a Perl o C.

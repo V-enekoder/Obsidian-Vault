@@ -1,0 +1,1 @@
+Como dice Toni Nadal en [[El valor del esfuerzo]], se forja con la dificultad. Es la capacidad de dejar de quejarnos, poner excusas y afrontar la realidad lo que permite alcanzar las metas que nos proponemos.  Pero esto no es algo que pueda ser impuesto, sino que debe ser cultivado. Sólo siendo autoexigente se puede llegar a ser un N°1 o, al menos, alguien excelente.

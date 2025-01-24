@@ -1,0 +1,1 @@
+Son fragmento de código que permiten ejecutar una serie de instrucciones en un entorno específico. Por ejemplo, mostrar una notificación una vez se presiona un botón

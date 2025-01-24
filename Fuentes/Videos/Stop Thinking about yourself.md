@@ -1,0 +1,1 @@
+[[Jordan Peterson]]. Stop thinking about yourself. Tiktok. Recuperado el 11 de agosto de 2024, de https://www.tiktok.com/@dr.jordan.b.peterson/video/7375233922608811270?_r=1&_t=8olvnBYDMVK

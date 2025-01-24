@@ -1,0 +1,1 @@
+Como se expresa en [[¿Puede Maduro mandar al ejército contra los venezolanos]], se debe prestar especial atención a lo que piensen los militares. En estos reside el poder para reprimir a la población o no. Sólo en la medida en que se pueda influir en ellos, se podrá ganar o perder. Toda estrategia que no los tome en cuenta, está desconectada de la realidad

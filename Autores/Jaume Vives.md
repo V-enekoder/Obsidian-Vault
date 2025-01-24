@@ -1,0 +1,1 @@
+Jaume Vives Vives (Barcelona, 5 de junio de 1992) es un periodista, activista y escritor español.

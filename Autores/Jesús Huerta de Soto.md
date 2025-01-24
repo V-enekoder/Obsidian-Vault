@@ -1,0 +1,1 @@
+Autor y profesor universitario. De pensamiento anarco-capitalista, es famoso por defender el coeficiente de caja del 100%.

@@ -1,0 +1,1 @@
+Conocido también como Fonseca, es un publicista y analista político. Posee una tendencia de ideas liberal.

@@ -1,0 +1,1 @@
+Comando utilizado para fusionar 2 ramas independientes, incluyendo en una sola los cambios producidos en ambas. No borra la rama fusionada automáticamente.

@@ -1,0 +1,1 @@
+Software de control de versiones creado para mantener un registro ordenado y accesible de múltiples versiones de un archivo de texto, comúnmente código fuente.

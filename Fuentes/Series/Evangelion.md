@@ -1,0 +1,1 @@
+Shinji Ikari es un niño de 14 años que es obligado a pilotar un robot gigante para derrotar a extraterrestres, obligado por su padre.

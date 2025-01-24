@@ -1,0 +1,1 @@
+[[Francisco Capella]] (2014, julio 10). _Anarcocapitalismo, minarquismo y evolucionismo_. Instituto Juan de Mariana. https://juandemariana.org/ijm-actualidad/analisis-diario/anarcocapitalismo-minarquismo-y-evolucionismo/

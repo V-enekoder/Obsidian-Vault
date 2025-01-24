@@ -1,0 +1,2 @@
+"Además algunas normas que se perciben socialmente como legítimas no se aceptan explícitamente a nivel individual mediante contratos sino que surgen evolutivamente y se concretan en tradiciones y costumbres sociales: que un individuo no acepte una norma no implica automáticamente que esta sea ilegítima, y tal vez el grupo está justificado a obligar o expulsar a quienes la incumplen."
+en [[Anarcocapitalismo, minarquismo y evolucionismo]]

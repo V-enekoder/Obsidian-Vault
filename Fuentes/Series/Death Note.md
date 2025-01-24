@@ -1,0 +1,1 @@
+Manga japonés escrito por [[Tsugumi Oba]] e ilustrado por [[Takeshi Obata]]. 

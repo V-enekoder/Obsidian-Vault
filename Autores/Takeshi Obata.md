@@ -1,0 +1,1 @@
+Dibujante y guionista de manga

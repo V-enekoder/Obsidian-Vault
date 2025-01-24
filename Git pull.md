@@ -1,0 +1,1 @@
+Es un comando utilizado para incluir los cambios de un repositorio remoto hacia el repositorio actual. Es decir, actualizar el repo local. Una vez se hace esto, y hay cambios tanto en el repo remoto como en el local, se realiza una branch, se agregan los remotos y se crea un [[Git merge]] automático.

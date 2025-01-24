@@ -1,0 +1,1 @@
+Es dietista-nutricionista y tecnólogo alimentario.

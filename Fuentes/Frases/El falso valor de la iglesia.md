@@ -1,0 +1,2 @@
+"La nueva religión (Los pobres) ha tenido tanto éxito que muchos llegan incluso a justificar la existencia de la Iglesia por todo el bien que hace...Como si la Iglesia fuera buena por eso, y no por ser la esposa de Cristo. Como si Jesús fuera bueno por hacer milagros y enseñar cosas buenas y no por ser el mismo Dios."
+En [[La iglesia y los pobres]]
