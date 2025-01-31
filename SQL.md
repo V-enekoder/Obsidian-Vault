@@ -1,0 +1,1 @@
+Siglas de Structurated Query Language. Es un lenguaje de programación diseñado para la realización de consultas en bases de datos relacionales. Es el esquemas más extendido en todo el mundo

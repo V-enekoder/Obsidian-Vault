@@ -1,0 +1,1 @@
+Es una base de datos columnar. Es decir, es [[NoSQL]]. Se organiza en nodos y los datos se distribuyen a través de estos con una clave de hashing. Esto permite una mayor velocidad de lectura, a costa de mayor velocidad de escritura. Se caracteriza por su escalabilidad horizontal. Es decir, por poder agregar más nodos de manera sencilla.

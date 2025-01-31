@@ -1,0 +1,1 @@
+Es una arquitectura de software y hardware en la cual no existen una sola entidad que controle todo. Sino que existen distintos actores iguales, que entre todos permiten que el sistema funcione. Este esquema permite una gran tolerancia a fallos, debido a que un nodo o parte de sistema puede fallar, sin que eso afecte a los demás.

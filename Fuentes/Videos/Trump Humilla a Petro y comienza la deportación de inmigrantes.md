@@ -1,0 +1,1 @@
+[[Enrique Fonseca]] TRUMP humilla a PETRO y comienza las DEPORTACIONES de Migrantes - @SoloFonseca_. Youtube. Retrieved January 28, 2025, from https://www.youtube.com/watch?v=LDIQPeRkqiQ

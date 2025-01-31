@@ -1,0 +1,1 @@
+Los datos se organizan en distintos nodos, y cada registro puede soportar una cantidad distinta de columnas en cada registro. Esto permite tener todos los datos en una sola "caja", lo cual acelera las consultas. Debido a que no soporta los JOIN entre tablas, se vale de la [[Desnormalización]]

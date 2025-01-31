@@ -1,0 +1,1 @@
+Dentro de un clúster de cassandra, se puede definir un anillo. Este será el que provee la función de hashing para que se organicen los datos en los distintos nodos. Un anillo va dentro del keyspace, que cumpliría la función de la base de datos, dentro de la cual se encontrarán las tablas.

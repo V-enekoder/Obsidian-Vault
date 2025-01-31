@@ -1,0 +1,1 @@
+Característica de algunos esquemas de bases de datos, en los cuales se agrega redundancia en los registros de una o más tablas, con el fin de acelerar la velocidad de lectura. Es ampliamente utilizado y recomendado en [[Cassandra]]

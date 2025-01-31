@@ -1,0 +1,1 @@
+Es una familia heterogénea de modelos de bases de datos. Estos sólo comparten en común que no utilizan el esquema relacional para la organización de los datos. Debido a lo anterior, tampoco utilizan [[SQL]] como su leguaje de preferencia, a pesar de que algunos lo soportan.
