@@ -4,7 +4,7 @@ Es el aspecto más importante de la vida en sociedad o comunidad. El estudio de 
 Analiza aquellos fenómenos respectivos a la organización de lo común dentro de un grupo.
 
 [[El control sobre los que controlan las armas]]
-
+[[Irse en ausencia de bien común]]
 
 ### Ciencia
 

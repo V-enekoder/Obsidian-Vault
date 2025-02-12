@@ -1,0 +1,1 @@
+ [[Autores/Fixcal]]. _¿Adiós a la Clase Media? La Verdad que los Políticos NO Quieren que Sepas_. Youtube. Retrieved February 2, 2025, from https://www.youtube.com/watch?v=7V6Qit_az1Q

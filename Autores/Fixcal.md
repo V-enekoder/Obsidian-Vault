@@ -1,0 +1,1 @@
+Según su descripción de youtube: "Fixcal es la marca que evoluciona a partir del despacho Algarci & Asociados, una firma de fiscalidad internacional con la filosofía de facilitar a emprendedores digitales, pymes e inversores, el acceso a las estrategias y estructuras que antes solo los más pudientes podían aprovechar."

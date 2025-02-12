@@ -9,12 +9,15 @@ El juego que sorprendentemente no es minecraft.
 [[Los scripts]]
 [[Tipos de scripts]]
 
-##Bases de Datos
-	###Esquemas
-		[[SQL]]
-		[[NoSQL]]
-	###[[Cassandra]]
-		[[Organización de los datos]]
-		[[Arquitectura Distribuida]]
-		[[Anillo y Keyspace]]
+## Bases de Datos
 
+### Esquemas  
+- [[SQL]]  
+- [[NoSQL]]  
+
+### Modelos  
+####     [[Cassandra]]  
+- [[Organización de los datos]]  
+- [[Arquitectura Distribuida]]  
+- [[Anillo y Keyspace]]  
+- [[Ejecutar Cassandra]]  

@@ -1,0 +1,1 @@
+Vamos a la carpeta donde está ubicada en el Disco Local. Luego, accedemos a la carpeta bin. De ahí, en la barra donde muestra la dirección escribimos cmd. Luego de iniciado, escribimos 'cassandra'. Esto iniciará el servidor. Luego de esto, simplemente ejecutamos (con python), el archivo sqlsh.py

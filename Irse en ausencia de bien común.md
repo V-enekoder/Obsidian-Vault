@@ -1,0 +1,1 @@
+En [[Adiós a la Clase Media. La verdad que los políticos no quieren que sepas]], [[Enrique Fonseca]] explica porque se fue de España. A pesar de que a él le iba bien, no podía salir con sus amigos. Este estaba desempleado, aquel tenía otros gastos mas importantes. Dice que no podía ser feliz así, porque sólo le iba bien a él.
