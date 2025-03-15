@@ -1,0 +1,5 @@
+Los padres siempre buscan dar la mejor educación a sus hijos, y consideramos que aquellos que no lo hacen, han sido malos padres. Pero es importante denotar varias cosas sobre la buena educación que se brinda:
+* ¿Qué es una buena educación?: Aquella que permite una correcta integración y da aportes positivos tanto al bien individual como al común.
+* ¿Cuando?: Se da durante toda la vida, pero es especialmente importante durante la niñez y durante la adolescencia.
+* ¿Donde?: En todos los ambientes de formación que frecuenten las personas, tales como familia, escuela o iglesia.
+La buena educación no lo es porque permita conseguir mejores oportunidades laborales. Por lo cual, el hecho de enviar a un hijo a Harvard no es menos reprochable que enviarlo a la UNE..., a casi ninguna otra universidad.
