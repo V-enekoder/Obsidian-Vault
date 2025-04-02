@@ -1,0 +1,1 @@
+Trata sobre un joven con la capacidad de viajar en el tiempo que intenta cambiar su pasado con la esperanza de mejorar su futuro.
