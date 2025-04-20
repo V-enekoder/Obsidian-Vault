@@ -1,0 +1,1 @@
+Lo peor que le puede pasar a alguien es obtener lo que quiere, sin estar preparado para ello

@@ -3,6 +3,7 @@
 [[Git]]
 	|[[Git pull]]
 	 [[Posibles problemas con Git pull]]
+
 ### Roblox
 El juego que sorprendentemente no es minecraft.
 [[Roblox Studio]]
@@ -21,3 +22,7 @@ El juego que sorprendentemente no es minecraft.
 - [[Arquitectura Distribuida]]  
 - [[Anillo y Keyspace]]  
 - [[Ejecutar Cassandra]]  
+ 
+ 
+ #### [[PostgreSQL]]
+ - [[Crear datos con bucles]]

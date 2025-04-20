@@ -1,0 +1,2 @@
+"Estudiar te hace sentir tonto, entrenar te hace sentir débil, mejorar te hace sentir una mierda. No todo lo malo es realmente malo".
+de Tiktok.com. Retrieved April 2, 2025, from https://www.tiktok.com/@lucho102310/photo/7466845473568083205?is_from_webapp=1&sender_device=pc&web_id=7479842696933590583

@@ -1,0 +1,1 @@
+Sistema Gestor de Bases de Datos, de código abierto y que según es muy arrecho

@@ -1,0 +1,2 @@
+El chisme es una lengua que tiene 3 puntas. Que se dedica a matar a 3 personas. Que son el que dice el chisme, quien lo oye y de quien se habla. de triple filo. 
+de [[El Cuartico]] ¿Por qué nos gusta el chisme? | 172_. Youtube. Retrieved April 2, 2025, from https://www.youtube.com/watch?v=n5SwJKN-dy8
