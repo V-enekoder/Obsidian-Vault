@@ -26,3 +26,16 @@ El juego que sorprendentemente no es minecraft.
  
  #### [[PostgreSQL]]
  - [[Crear datos con bucles]]
+
+### Administración de Proyectos
+
+
+#### Arquitectura de sistemas
+[[Arquitectura de Sistemas]]
+
+#### Arquitectura de Sotware
+
+[[Arquitectura de Software]]
+
+##### Patrones de Diseño
+[[Patrón de Diseño]]

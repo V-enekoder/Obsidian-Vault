@@ -1,0 +1,1 @@
+Se refiere a una idea o conjunto de ideas alrededor de las cuales se organiza la estructura de un proyecto. Viene al principio del proyecto, y es donde se definirán cosas como la estructura de carpetas. Es vital a la hora de escala un proyecto. Se ubica en la etapa del diseño de un proyecto

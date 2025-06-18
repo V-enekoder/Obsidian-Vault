@@ -1,0 +1,1 @@
+Es la parte del desarrollo de un proyecto que se encarga de preguntar ¿Dónde va a "vivir" el sistema? ¿Qué servidor se usará? ¿Requerimos permisos de red? ¿El cliente posee el hardware necesario? ¿Cómo es la compatibilidad entre todo lo anterior? Todas estas preguntas son las que envuelven a la arquitectura de software y al conectan con la realidad

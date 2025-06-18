@@ -1,0 +1,1 @@
+Es una solución probada aun problema común. Es decir, se toma dicha herramienta para resolver un caso de uso ya existente. Se ubica en la etapa de implementación del software
