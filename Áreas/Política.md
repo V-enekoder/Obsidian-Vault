@@ -5,10 +5,10 @@ Analiza aquellos fenómenos respectivos a la organización de lo común dentro d
 
 [[El control sobre los que controlan las armas]]
 [[Irse en ausencia de bien común]]
-
+[[No quiero un Irán con bombas nucleares]]
 ### Ciencia
 
 ### Filosofía
 [[Notas para una teoría que pretenda ser práctica]]
 #### Anarcocapitalismo
-	[[El valor de la religión cristiana para filósofos no cristianos]]
+[[El valor de la religión cristiana para filósofos no cristianos]]

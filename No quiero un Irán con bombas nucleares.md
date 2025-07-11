@@ -1,0 +1,1 @@
+En [[Irán rompe la cúpula de Hierro]], se trata como dicho país está cada vez más cerca de lograr una bomba nuclear. Y como ello es una amenaza para los países occidentales. Y se argumenta algo que es cierto, prefiero un Israel criminal que a un irán nuclear. 

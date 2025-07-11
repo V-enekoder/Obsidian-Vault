@@ -1,0 +1,1 @@
+Son las siglas de Object Relational Mapping. Es una herramienta que se usa para hacer una traducción de las tablas de las bases de datos relacionales a objetos, donde cada tabla es una clase, cada registro es una instancia y los campos son atributos.

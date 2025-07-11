@@ -23,7 +23,8 @@ El juego que sorprendentemente no es minecraft.
 - [[Anillo y Keyspace]]  
 - [[Ejecutar Cassandra]]  
  
- 
+ [[ORM]]
+* [[Definición de Relaciones]]
  #### [[PostgreSQL]]
  - [[Crear datos con bucles]]
 
@@ -33,7 +34,7 @@ El juego que sorprendentemente no es minecraft.
 #### Arquitectura de sistemas
 [[Arquitectura de Sistemas]]
 
-#### Arquitectura de Sotware
+#### Arquitectura de Software
 
 [[Arquitectura de Software]]
 
