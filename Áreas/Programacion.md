@@ -40,3 +40,6 @@ El juego que sorprendentemente no es minecraft.
 
 ##### Patrones de Diseño
 [[Patrón de Diseño]]
+
+#### Recordatorios
+[[Creación de Usuarios y Registro]]
